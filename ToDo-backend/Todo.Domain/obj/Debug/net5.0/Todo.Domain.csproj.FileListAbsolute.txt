@@ -1,0 +1,12 @@
+C:\GitHub\todo-app\todo-backend\Todo.Domain\bin\Debug\net5.0\Todo.Domain.deps.json
+C:\GitHub\todo-app\todo-backend\Todo.Domain\bin\Debug\net5.0\Todo.Domain.dll
+C:\GitHub\todo-app\todo-backend\Todo.Domain\bin\Debug\net5.0\ref\Todo.Domain.dll
+C:\GitHub\todo-app\todo-backend\Todo.Domain\bin\Debug\net5.0\Todo.Domain.pdb
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csprojAssemblyReference.cache
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.AssemblyInfo.cs
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.dll
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\ref\Todo.Domain.dll
+C:\GitHub\todo-app\todo-backend\Todo.Domain\obj\Debug\net5.0\Todo.Domain.pdb
