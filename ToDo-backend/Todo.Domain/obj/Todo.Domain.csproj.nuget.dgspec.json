@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\todo-app\\todo-backend\\Todo.Domain\\Todo.Domain.csproj": {}
+    "C:\\GitHub\\todo-app\\ToDo-backend\\Todo.Domain\\Todo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\todo-app\\todo-backend\\Todo.Domain\\Todo.Domain.csproj": {
+    "C:\\GitHub\\todo-app\\ToDo-backend\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\todo-app\\todo-backend\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "C:\\GitHub\\todo-app\\ToDo-backend\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\GitHub\\todo-app\\todo-backend\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "C:\\GitHub\\todo-app\\ToDo-backend\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\Fellipe Tavares\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\todo-app\\todo-backend\\Todo.Domain\\obj\\",
+        "outputPath": "C:\\GitHub\\todo-app\\ToDo-backend\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
