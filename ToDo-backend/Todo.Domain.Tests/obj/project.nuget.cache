@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zOO7NYEo7Qlk6tm2ky9J96d7O+droOR2IhAQZOCYa3spSowkfeM949V6/k3bbRxCuAAuEONVTAoVfQv+xyUvbg==",
+  "dgSpecHash": "jSyz0lpFACDYI7X2siqP91gC1SGLfP72IIzHaVbNez1Qz5HNAGrvHMdzToocLMfQNT51GVewoT95m5jICyAPvg==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\todo-app\\todo-backend\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
+  "projectFilePath": "C:\\github\\ToDo-App\\ToDo-backend\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fellipe Tavares\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\Fellipe Tavares\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\Fellipe Tavares\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Fellipe Tavares\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
